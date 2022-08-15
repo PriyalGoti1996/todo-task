@@ -1,0 +1,78 @@
+.maindiv {
+    width: 100%
+}
+
+.listhading,
+h4 {
+    text-align: center;
+}
+
+.rowlist {
+    border: 1px solid rgb(145, 133, 133);
+    border-radius: 10px;
+    width: 42.5%;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.Addlist {
+    text-align: center;
+    border: 1px solid rgb(145, 133, 133);
+    border-radius: 10px;
+    width: 42.5%;
+    margin: auto;
+    border: 1p0x solid gray;
+    width: 42%;
+    padding: 10px;
+
+
+}
+.icon{
+    display: flex;
+    float: right;
+    
+}
+.inericon{
+    margin: 1px 5px;
+}
+
+.inputtask {
+    
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(98, 111, 159);
+    
+
+}
+.btntask
+{
+    width: 93%;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(98, 111, 159);
+    border: none;
+    border-radius: 10px;
+}
+.btn{
+    text-align: center;
+    
+    }
+.deletebtn{
+
+    width: 22%;
+    margin-top: 10px;
+    padding: 14px;
+    margin-right: 5px;
+    background-color: rgb(98, 111, 159);
+    border: none;
+    border-radius: 10px;
+}
+#second{
+    color: green;
+}
+#thred{
+    color: red;
+}
